@@ -51,6 +51,3 @@ Provides features like image capture, edge detection, perspective correction, an
 
   For issues, please open an issue in the GitHub repository or contact the author.  
 
-
-Feel free to edit the sections (Features, Usage, Prerequisites) to match exactly what your notebook implements. Would you like me to generate a full README with markdown badges, screenshots, and contribution guidelines?
-::contentReference[oaicite:0]{index=0}  
